@@ -24,7 +24,7 @@ const Header = () => {
                             onClick={() => setMenuOPened(false)}
                             to='home'
                             activeClass="active"
-                            span={true}
+                            // span={true}
                             smooth={true}
                         >
                             Home
@@ -37,7 +37,7 @@ const Header = () => {
                             onClick={() => setMenuOPened(false)}
                             to='programs'
 
-                            span={true}
+                            // span={true}
                             smooth={true}
                         >Programs</Link></li>
                     <li>
@@ -46,7 +46,7 @@ const Header = () => {
                             onClick={() => setMenuOPened(false)}
                             to='Reasons'
 
-                            span={true}
+                            // span={true}
                             smooth={true}
                         >Why us</Link></li>
                     <li>
@@ -55,7 +55,7 @@ const Header = () => {
                             onClick={() => setMenuOPened(false)}
                             to='plans'
 
-                            span={true}
+                            // span={true}
                             smooth={true}
                         >Plans</Link></li>
                     <li
@@ -65,7 +65,7 @@ const Header = () => {
                             onClick={() => setMenuOPened(false)}
                             to='Testimonials'
 
-                            span={true}
+                            // span={true}
                             smooth={true}
                         >
                             Testimonials
